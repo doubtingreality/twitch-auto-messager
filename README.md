@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/doubtingreality/twitch-auto-messager/master/cover-auto-messager.png)
+![alt tag](https://raw.githubusercontent.com/doubtingreality/twitch-auto-messager/master/cover-auto-messager.jpg)
 
 # Twitch Auto Messager
 UserScript for TamperMonkey or GreaseMonkey that adds a new panel on Twitch.tv to easily automate sending of messages.
