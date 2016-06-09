@@ -80,7 +80,6 @@
 	var init_interval = setInterval(function() {
 		if ($(".chat-room").length > 0 && $(".auto-automessager-holder").length < 1) {
 			init();
-		} else {
 			clearInterval(init_interval);
 		}
 	}, 500);
